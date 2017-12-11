@@ -140,4 +140,5 @@ equals.grid(row=5, column=3, pady=5)
 root.mainloop()
 
 print('this code has been added in the remote repository')
+print('seconde collaborator')
 
